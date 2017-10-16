@@ -1,0 +1,1 @@
+{ "Items": [ { "name": "Awp", "coins": 55000, "credits": 3500, "type": "gun", "available": 1, "icon": "awp_icon", "ammo": 31 }, { "name": "Ak47", "coins": 47000, "credits": 2500, "type": "gun", "available": 1, "icon": "ak47_icon", "ammo": 68 }, { "name": "Sniper rifle", "coins": 244, "credits": 24, "type": "gun", "available": 1, "icon": "sniper_rifle_icon", "ammo": 16 } ] }
